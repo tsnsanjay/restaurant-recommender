@@ -1,7 +1,8 @@
 streamlit
-pandas
-numpy
-scikit-learn
-geopy
-requests
 PyYAML
+python-dotenv
+tqdm
+crewai
+crewai-tools
+openai
+requests
