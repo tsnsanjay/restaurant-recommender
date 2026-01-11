@@ -4,7 +4,7 @@ import tempfile
 import gc
 import base64
 import time
-import yaml
+
 
 from tqdm import tqdm
 from brightdata_scrapper import *
@@ -264,3 +264,4 @@ if st.session_state.response:
 # Footer
 st.markdown("---")
 st.markdown("Built with CrewAI, Bright Data and Streamlit")
+
