@@ -1,8 +1,8 @@
 streamlit
-PyYAML
-python-dotenv
-tqdm
-crewai
-crewai-tools
-openai
 requests
+pandas
+numpy
+geopy
+scikit-learn
+folium
+streamlit-folium
