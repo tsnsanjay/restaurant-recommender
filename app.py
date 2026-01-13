@@ -214,4 +214,3 @@ if search_btn:
 
     st.dataframe(display_df, use_container_width=True)
 
-
